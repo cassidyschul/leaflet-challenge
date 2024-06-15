@@ -7,4 +7,5 @@ The magnitude of the earthquake is represented by the size of the marker (the la
 
 ![Earthquake_Map_Visualization.png](https://github.com/cassidyschul/leaflet-challenge/blob/main/Earthquake_Map_Visualization.png)
 
-
+## Usage
+Interact with dashboard via https://cassidyschul.github.io/leaflet-challenge/
